@@ -13,9 +13,9 @@
 
 ᯓᡣ𐭩.ᐟ ⊹  I'm Bárbara, but you can call me Babi. 
 
-·ㅤCurrently studying **Information Systems** at **Universidade Federal do Rio Grande (FURG)**. </br>
-·ㅤ**Software developer** with a strong curiosity for technology and innovation. </br> 
-·ㅤPassionate about learning new things — especially building projects that make difference. 
+ㅤㅤ·ㅤCurrently studying **Information Systems** at **Universidade Federal do Rio Grande (FURG)**. </br>
+ㅤㅤ·ㅤ**Software developer** with a strong curiosity for technology and innovation. </br> 
+ㅤㅤ·ㅤPassionate about learning new things — especially building projects that make difference. 
 
 </div>
 </br>
@@ -55,7 +55,7 @@
 </div>
 </br>
 
-<h3 align="center">ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤᯓᡣ𐭩.ᐟ ⊹ Github Status </h3>
+<h3 align="center">ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤᯓᡣ𐭩.ᐟ ⊹ Github Status </h3>
 
 <br>
 
