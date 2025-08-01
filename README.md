@@ -55,7 +55,7 @@
 </div>
 </br>
 
-<h3 align="center">ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤᯓᡣ𐭩.ᐟ ⊹ Github Status </h3>
+<h3 align="center">ㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤᯓᡣ𐭩.ᐟ ⊹ Github Status </h3>
 
 <br>
 
