@@ -13,9 +13,9 @@
 
 ᯓᡣ𐭩.ᐟ ⊹  I'm Bárbara, but you can call me Babi. 
 
-ㅤㅤ·ㅤCurrently studying **Information Systems** at **Universidade Federal do Rio Grande (FURG)**. </br>
-ㅤㅤ·ㅤ**Software developer** with a strong curiosity for technology and innovation. </br> 
-ㅤㅤ·ㅤPassionate about learning new things — especially building projects that make difference. 
+ㅤㅤ·  **Information Systems** student at **Universidade Federal do Rio Grande (FURG)**. </br>
+ㅤㅤ·ㅤ**Software developer** passionate about tech and innovation. </br> 
+ㅤㅤ·ㅤAlways eager to learn new things and explore creative solutions.
 
 </div>
 </br>
@@ -36,9 +36,10 @@
  </h3>
 
 <div align="center">
- 🔗  I enjoy developing projects that explore creativity. </br>
- 🔗  I've been exploring the field of Artificial Intelligence. </br>
- 🔗  I really like to talk and build project ideas. </br>
+ 🔗  I'm currently focused on studying Artificial Intelligence (AI). </br>
+ 🔗  I have a strong curiosity to study Machine Learning deeply. </br>
+ 🔗  I also enjoy creating visual projects and other kind of applications. </br>
+ 
 </div>
  ㅤ
   <!-- social media --> 
