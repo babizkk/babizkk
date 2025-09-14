@@ -15,7 +15,7 @@
 
 ㅤㅤ·  **Information Systems** student at **Universidade Federal do Rio Grande (FURG)**. </br>
 ㅤㅤ·ㅤ**Software developer** passionate about tech and innovation. </br> 
-ㅤㅤ·ㅤAlways eager to learn new things and explore creative solutions.
+ㅤㅤ·ㅤAlways eager to learn new things & explore creative solutions.
 
 </div>
 </br>
