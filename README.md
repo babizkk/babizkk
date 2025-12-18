@@ -76,10 +76,10 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,lua,golang,react" /> <br>
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,postman,git,aws" /> <br>
-    <img src="https://skillicons.dev/icons?i=github,figma,notion"/> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,js"/>
+    <img src="https://skillicons.dev/icons?i=python,c,lua,golang" /> <br>
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,postman,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=github,figma,notion,aws"/> <br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 </div>
 
 <br/>
